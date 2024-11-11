@@ -25,7 +25,7 @@
 
 	<entry key="chat.bgColor">0x0d0d0d</entry>
 
-	<entry key="gamemenu.background">0x000000</entry>
+	<entry key="gamemenu.background">0x85CA65</entry>
 	<entry key="gamemenu.background.alpha">0.8</entry>
 
 	<entry key="grid.title">0x0d0d0d</entry>
